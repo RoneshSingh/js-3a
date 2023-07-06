@@ -1,0 +1,26 @@
+.counter-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  text-decoration-color: blue;
+}
+
+.counter-h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.counter-button {
+  padding: 10px 20px;
+  margin: 0 5px;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  border-radius: 4px;
+  background-color: #4caf50;
+  color: rgb(220, 7, 7);
+  cursor: pointer;
+}
